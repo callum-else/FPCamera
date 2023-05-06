@@ -1,0 +1,14 @@
+{
+  "name": "com.geppy.fpcamera",
+  "version": "0.0.1",
+  "displayName": "FPCamera",
+  "description": "FPCamera is a first-person camera package for Unity that includes movement and rotation scripts for smooth and accurate control.",
+  "unity": "2021.3",
+  "unityRelease": "16f1",
+  "documentationUrl": "https://github.com/callum-else/FPCamera/blob/main/README.md",
+  "changelogUrl": "https://github.com/callum-else/FPCamera/commits/main",
+  "licensesUrl": "https://github.com/callum-else/FPCamera/blob/main/LICENSE",
+  "author": {
+    "name": "Callum Else"
+  }
+}
