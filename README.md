@@ -9,7 +9,6 @@ To install FPCamera, follow these steps:
 3. Click on the + button and select Add package from disk....
 4. Navigate to the FPCamera folder in the downloaded repository and select the package.json file.
 5. Click on the Open button to add the package to your project.
-6. Alternatively, you can import the package directly from the Unity Asset Store.
 
 ## Usage
 ### First-person camera movement
