@@ -1,7 +1,7 @@
 {
   "name": "com.geppy.fpcamera",
   "version": "0.0.1",
-  "displayName": "FPCamera",
+  "displayName": "FP Camera",
   "description": "FPCamera is a first-person camera package for Unity that includes movement and rotation scripts for smooth and accurate control.",
   "unity": "2021.3",
   "unityRelease": "16f1",
